@@ -13,6 +13,7 @@ module.exports = {
     'html'
   ],
   'rules': {
+    'indent': 'off',
     // allow paren-less arrow functions
     'arrow-parens': 0,
     // allow async-await
